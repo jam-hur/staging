@@ -58,6 +58,20 @@ a {
   padding-top: 50vh;
 }
 
+.thankyou-container {
+    background-color: var(--accent-background-colour);
+    margin-left: 45vw;
+    margin-right: auto;
+    max-width: 1374.5px;
+}
+
+.para-thankyou {
+  width: 500px;
+  align-items: center;
+  height: fit-content;
+  padding: 50px;
+}
+
 .header-container {
   display: flex;
   flex-direction: column;
