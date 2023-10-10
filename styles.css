@@ -909,9 +909,10 @@ h1.tag-line {
   border: 1px solid white;
   transition: 800ms;
   color: white;
+  transition: 3ms;
 }
 
-.btn-footer:hover:after {
+.btn-footer-gallery:hover:after {
   content: " Coming Soon";
 }
 
